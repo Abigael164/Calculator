@@ -24,5 +24,3 @@ It performs *basic arithmetic operations* such as addition, subtraction, multipl
 - *CSS3* – for styling and layout  
 
 ---
-
-## 📂 Project Structure
