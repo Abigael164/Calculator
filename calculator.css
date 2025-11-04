@@ -1,0 +1,55 @@
+form{
+	background-position: center;
+	background-color: black;
+	width: 365px;
+	border-radius: 10px;
+	justify-content: center;
+	align-items: center;
+	box-sizing: border-box;
+}
+.calc input{
+	font-size: 20px;
+	margin: 8px;
+	padding: 10px;
+	background-color: black;
+	color: white;
+	border: 2px solid grey;
+	border-radius: 8px;
+	text-align: center;
+	cursor: pointer;
+	box-shadow: 2px 2px 3px grey;
+	font-weight: bolder;
+	font-style: oblique;
+	transition: all 0.3s ease;
+}
+.calc input:active{
+	transform: scale(0.95);
+}
+.one input{
+	height: 60px;
+	width: 300px;
+	border: 2px solid grey;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-top: 40px solid black;
+
+}
+.three input {
+	padding: 19px ;
+}
+.four input{
+	padding: 19px;
+}
+.five input{
+	padding: 19px;
+}
+.six input{
+	padding: 19px;
+}
+input.tage{
+	font-size: 14px;
+}
+input.ans{
+	width: 100px;
+}
